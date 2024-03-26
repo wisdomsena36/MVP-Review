@@ -2,6 +2,12 @@
 
 Welcome to the Teacher Letter Generator MVP repository! This project aims to provide a clean and intuitive tool for generating personalized letters for teachers. Below is an overview of the features and functionalities offered by this MVP version.
 
+## Screenshots
+
+![image](https://github.com/wisdomsena36/MVP-Review/assets/57534261/2e062224-d9d4-4d59-9537-8ef23ceae0c1)
+
+![image](https://github.com/wisdomsena36/MVP-Review/assets/57534261/efcd72e7-bcfb-4f76-bbfc-3c75f93d3707)
+
 ## Dashboard
 
 The dashboard offers a seamless user experience with easy navigation to different functionalities.
@@ -54,11 +60,5 @@ This MVP version of the Teacher Letter Generator aims to offer a basic yet funct
 ## Architecture
 
 ![TeacherApplicationLetterGenerator](https://github.com/wisdomsena36/MVP-Review/assets/57534261/4b22e016-4db4-49b5-aeb0-3e6c32c66a65)
-
-## Screenshots
-
-![image](https://github.com/wisdomsena36/MVP-Review/assets/57534261/2e062224-d9d4-4d59-9537-8ef23ceae0c1)
-
-![image](https://github.com/wisdomsena36/MVP-Review/assets/57534261/efcd72e7-bcfb-4f76-bbfc-3c75f93d3707)
 
 Thank you for your interest in the Teacher Letter Generator MVP! Feel free to explore the repository and provide your valuable feedback.
